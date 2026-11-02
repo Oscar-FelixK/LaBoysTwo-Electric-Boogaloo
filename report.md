@@ -249,3 +249,6 @@ There are infinitely many wells at c = 2 pi n; with this start, the values separ
 - Task description: `README.md` of this repository (original Cahn-Hilliard model and variants).
 - The first Task 1 script is based on `images/README.md`.
 - The corrected `Scripts/Task_2/calculate_free_energy.py` and the helper `Scripts/Task_4/run_all_potentials_report.py` were written for this report and are not yet in your repository.
+
+## AI Declaration
+A variety of AI Agents such as Claude and Copilot were used to assist with writing the code as well as this report.
